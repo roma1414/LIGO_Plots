@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Aug 24 13:35:24 2017
+
+@author: Vincent
+"""
+
+import numpy as np
+from scipy import signal
+
